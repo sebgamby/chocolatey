@@ -6,5 +6,7 @@
     <title>Choco Website</title>
     <description>The Chocolatey Website</description>
     <summary>Choco Web</summary>
+    <authors>QA</authors>
+    <owners>The World</owners>
   </metadata>
 </package>
